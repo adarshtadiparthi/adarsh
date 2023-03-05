@@ -538,7 +538,7 @@ input::file-selector-button{
 .social_media{
     position:fixed;
     right:0;
-    top:700px;
+    top:600px;
     display: flex;
     flex-direction: column;
     background-color: black;
